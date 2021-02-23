@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on finance app which tells how to get your things togerther 😄
-🌱 I’m currently doing my Diploma in Software Development
-👯 I’m looking to collaborte on Flutter
-🤔 I’m looking for help with opening up new opportunties in app development field
-💬 Ask me about make awesome apps with Flutter or React Native
-⚡ Fun fact: How to put an elephant in the fridge?
+🔭 I’m currently working on finance app which tells how to get your things togerther 😄<br/>
+🌱 I’m currently doing my Diploma in Software Development<br/>
+👯 I’m looking to collaborte on Flutter<br/>
+🤔 I’m looking for help with opening up new opportunties in app development field<br/>
+💬 Ask me about make awesome apps with Flutter or React Native<br/>
+⚡ Fun fact: How to put an elephant in the fridge?<br/>
 
 <!--
 **profiteroles/profiteroles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
