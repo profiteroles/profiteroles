@@ -3,7 +3,6 @@
 
 ### Hi there 👋 I'm Erol & I love sweet that's why some call me profiterol.
 
-<a href="https://github.com/profiteroles"><img src="" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/profiteroles?style=social" style="max-width:100%;"></a>
 
 <lu>
 <li>🔭 I’m currently working on finance app which tells how to get your things togerther 😄</li>
