@@ -1,12 +1,14 @@
 
 <h2>Let's Solve The Problem First and than We'll Make The App</h2>
 
-### Hi there 👋 Thanks for visiting my sweet ProFitErol account.
-
 <h1>***</h1>
-<h3>Please Note: I currently restructure my github account & my repositories.<br>
+<h3>Please Note: I'm currently restructuring my github account & my repositories.<br>
   Hopefully I'll be finish by 5th April 2021</h3><h1>***</h1>
   <br>
+
+### Hi there 👋 Thanks for visiting my sweet ProFitErol account. 
+  
+  
 <lu>
 <li>🔭 I’m currently working on finance app which tells how to get your things togerther 😄</li>
 <li>🌱 I’m currently doing my Diploma in Software Development</li>
