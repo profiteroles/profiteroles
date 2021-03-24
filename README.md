@@ -7,7 +7,15 @@
   <br>
 
 ### Hi there 👋 Thanks for visiting my sweet ProFitErol account. 
-  
+
+#I currently have:
+  <lu>
+  <li>38 (Coming Soon) Flutter Repositories</li>
+  <li>10 (Coming Soon) React Native Repositories</li>
+  <li>33 Java Repositories</li>
+  <li>35 (Coming Soon) .NET Repositories</li>
+  <li>4 (Coming Soon)Web Repositories</li>
+</lu>
   
 <lu>
 <li>🔭 I’m currently working on finance app which tells how to get your things togerther 😄</li>
