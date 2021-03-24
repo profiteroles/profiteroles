@@ -9,7 +9,7 @@
 
 ### Hi there 👋 Thanks for visiting my sweet ProFitErol account. 
 
-<h2>I currently have:</h2>
+<h2>I currently have:</h2> <h3>(Uploading them Slowly) Please visit the my Folders in Repository</h3>
   <lu>
   <li>38 (Coming Soon) Flutter Repositories</li>
   <li>10 (Coming Soon) React Native Repositories</li>
