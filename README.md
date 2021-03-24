@@ -8,7 +8,7 @@
 
 ### Hi there 👋 Thanks for visiting my sweet ProFitErol account. 
 
-#I currently have:
+<h2>I currently have:</h2>
   <lu>
   <li>38 (Coming Soon) Flutter Repositories</li>
   <li>10 (Coming Soon) React Native Repositories</li>
