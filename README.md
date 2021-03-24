@@ -1,5 +1,6 @@
 
-//<h2>Let's Solve The Problem First and than We'll Make The App</h2>
+<!--Added to the top once you are completed with restructure
+<h2>Let's Solve The Problem First and than We'll Make The App</h2> -->
 
 <h1>***</h1>
 <h3>Please Note: I'm currently restructuring my github account & my repositories.<br>
