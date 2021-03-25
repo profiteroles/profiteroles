@@ -1,4 +1,6 @@
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
+
 <!--Added to the top once you are completed with restructure
 <h2>Let's Solve The Problem First and than We'll Make The App</h2> -->
 
@@ -26,6 +28,8 @@
 <li>💬 Ask me about make awesome apps with Flutter or React Native</li>
 <li>⚡ Fun fact: How to put an elephant in the fridge?</li>
 </lu>
+
+
 <!--
 **profiteroles/profiteroles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
