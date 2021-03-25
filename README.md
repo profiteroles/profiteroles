@@ -29,7 +29,11 @@
 <li>⚡ Fun fact: How to put an elephant in the fridge?</li>
 </lu>
 
+## 🖖 Let's Get in Touch
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profiterol/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erollooper@gmail.com)](mailto:erollooper@gmail.com)
+[![Website Badge](https://img.shields.io/badge/web-1DA1F2?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.uniqapp.store)
 <!--
 **profiteroles/profiteroles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
