@@ -2,14 +2,15 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
 
 
-<h2>I currently have:</h2> <h3>(Uploading them Slowly) Make Sure to Visit Each Folder</h3>
+<h2>My Current Repositories</h2> 
   <lu>
-  <li href="https://github.com/profiteroles/All-My-Flutter-Apps" >38 (Coming Soon) Flutter Repositories</li>
+  <li>38 (Coming Soon) Flutter Repositories</li>
   <li>10 (Coming Soon) React Native Repositories</li>
-  <li>33 Java Repositories</li>
   <li>35 (Coming Soon) .NET Repositories</li>
   <li>4 (Coming Soon)Web Repositories</li>
+  <li>33 Java Repositories</li>
 </lu>
+<h3>(Uploading them Slowly) Make Sure to Visit Each Folder</h3>
 <br />
 <br />
 
