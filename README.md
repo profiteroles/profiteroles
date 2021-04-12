@@ -19,7 +19,7 @@
 
 <h1>***</h1>
 <h3>Please Note: I'm currently restructuring my github account & my repositories.<br>
-  Hopefully I'll be finish by 5th April 2021</h3><h1>***</h1>
+  Hopefully I'll be finish by the End of the MAY 2021</h3><h1>***</h1>
   <br />
 
 ### Hi there 👋 Thanks for visiting my sweet ProFitErol account. 
