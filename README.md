@@ -42,7 +42,7 @@
 <img align="left" alt=“Firebase” width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Dart” width="35px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Github” width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt=“Visual_Studio” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Visual_Studio_2013_Logo.svg" />
+<img align="left" alt=“Visual_Studio” width="35px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt=“C#” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt=“Java” width="30px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" /> 
 <img align="left" alt=“HTML” width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
