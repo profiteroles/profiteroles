@@ -5,7 +5,7 @@
 <h2>My Current Repositories</h2> 
   <lu>
   <li>33 Java Repositories</li>
-  <li>4 (Coming Soon)Web Repositories</li>
+  <li>4 Web Repositories</li>
   <li>35 (Coming Soon) .NET Repositories</li>
   <li>38 (Coming Soon) Flutter Repositories</li>
   <li>10 (Coming Soon) React Native Repositories</li>
