@@ -7,8 +7,8 @@
   <li>33 Java Repositories</li>
   <li>4 Web Repositories</li>
   <li>35 (Coming Soon) .NET Repositories</li>
-  <li>38 (Coming Soon) Flutter Repositories</li>
-  <li>10 (Coming Soon) React Native Repositories</li>
+  <li>20 (Coming Soon) Flutter Repositories</li>
+  <li>4 React Native Repositories</li>
 </lu>
 <h3>(Uploading them Slowly) Make Sure to Visit Each Folder</h3>
 <br />
