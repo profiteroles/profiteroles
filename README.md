@@ -1,75 +1,83 @@
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
 
+  ## 👋 Hey 
+  Thanks for showing an interest in my GitHub account.
+  I mainly focus on mobile apps & Web sites.
+  
+  
+<table style="border-collapse: collapse;
+            border: 2px solid rgb(200, 200, 200);
+            letter-spacing: 1px;
+            font-family: sans-serif;
+            font-size: .8rem;" cellpadding="10" border="1" width="100%">
+                <thead style="background-color: #3f87a6;
+                color: #fff;">
+            <tr>
+                <th scope="col">🛠 Languages</th>
+                <th scope="col">📚 Experience</th>
+                <th scope="col">📂 Repositories</th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=“Dart” width="35px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
+                        <img align="left" alt=“Flutter” width="35px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+                    </th>
+                    <td>⭐⭐⭐⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">20</a></td>
+                </tr>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=“React_Native” width="25px" src="https://png2.cleanpng.com/sh/af6bd8025edf59e15c4534f43d73186f/L0KzQYm3VcA4N5xtfZH0aYP2gLBuTgJmaZR5RdxqdnH2c8PwkQQudJpnitN7eT3qecXvlfIuapJog9R4bnWwRbLtUPVlPmpmealvMUOxRYS3UcU4OGM2TaQAN0O7SIaAVsk5PF91htk=/kisspng-react-javascript-library-github-backbone-5af0ed69aa7f13.5301570215257388576984.png"/>
+                        Native</th>
+                    <td>⭐⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-React-Native-Apps">4</a></td>
+                </tr>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=“Visual_Studio” width="35px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"/>
+                        <img align="left" alt=“C#” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png"/>
+                    </th>
+                    <td>⭐⭐⭐⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-.Net-Application">16</a></td>
+                </tr>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=“Java” width="25px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
+                        </th>
+                    <td>⭐⭐⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Java-Applications">34</a></td>
+                </tr>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=“HTML” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+                        <img align="left" alt=“CSS” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+                    </th>
+                    <td>⭐⭐⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">4</a></td>
+                </tr>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=“php” width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
+                    </th>
+                    <td>⭐⭐⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">2</a></td>
+                </tr>
+                <tr>
+                    <th scope="row" align="left">
+                        <img align="left" alt=JavaScript width="35px" src="https://mpng.subpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg"/>
+                    </th>
+                    <td>⭐⭐</td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">1</a></td>
+                </tr>
+            </tbody>
+            </table>
+       
 
-<h2>My Current Repositories</h2> 
-  <lu>
-  <li>34 Java Repositories</li>
-  <li>4 Web Repositories</li>
-  <li>16 .NET Repositories</li>
-  <li>20 (Coming Soon) Flutter Repositories</li>
-  <li>4 React Native Repositories</li>
-</lu>
-<h3>(Uploading them Slowly) Make Sure to Visit Each Folder</h3>
-<br />
-<br />
-
-<!--Added to the top once you are completed with restructure
-<h2>Let's Solve The Problem First and than We'll Make The App</h2> -->
-
-<h1>***</h1>
-<h3>Please Note: I'm currently restructuring my github account & my repositories.<br>
-  Hopefully I'll be finish by the End of the MAY 2021</h3><h1>***</h1>
-  <br />
-
-### Hi there 👋 Thanks for visiting my sweet ProFitErol account. 
-
-
- <h3>My Current Progress</h3>
-<lu>
-<li>🔭 I’m currently working on finance app which tells how to get your things togerther 😄</li>
-<li>🌱 I’m currently doing my Diploma in Software Development</li>
-<li>👯 I’m looking to collaborte on Flutter</li>
-<li>🤔 I’m looking for help with opening up new opportunties in app development field</li>
-<li>💬 Ask me about make awesome apps with Flutter or React Native</li>
-<li>⚡ Fun fact: How to put an elephant in the fridge?</li>
-</lu>
-<br />
-<br />
-<h3>🔧Languages & Tools</h3>
-<div>
-<img align="left" alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Dart” width="35px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Github” width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt=“Visual_Studio” width="35px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt=“C#” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
-<img align="left" alt=“Java” width="30px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" /> 
-<img align="left" alt=“HTML” width="45px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-<img align="left" alt=“CSS” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
-<img align="left" alt=“React_Native” width="70px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt=“php” width="70px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-</div>
-<br />
-<br />
-
-## 🖖 Let's Get in Touch
+ ## ☎️ Let's Get in Touch 📧
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profiterol/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erollooper@gmail.com)](mailto:erollooper@gmail.com)
 [![Website Badge](https://img.shields.io/badge/web%20site-1DA1F2?style=for-the-badge&logo=webflow&logoColor=white)](https://www.uniqapp.store)
 
-<!--
-✨  ✨
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
