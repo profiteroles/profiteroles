@@ -1,4 +1,4 @@
-<img align='right' width="490px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
+<img align='right' width="480px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
 
   ## 👋 Hi & Welcome 
   Thanks for showing an interest in my GitHub account.
