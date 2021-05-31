@@ -3,7 +3,7 @@
   ## 👋 Hi & Welcome 
   Thanks for showing an interest in my GitHub account.
   I mainly focus on mobile apps & Web sites.
-  
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=profiteroles&label=Views&color=lightgrey&style=plastic" alt="profiteroles" /> </p>
   
 <table style="border-collapse: collapse;
             border: 2px solid rgb(200, 200, 200);
