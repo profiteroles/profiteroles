@@ -1,6 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
+<img align='right' width="490px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
 
-  ## 👋 Hey 
+  ## 👋 Hi & Welcome 
   Thanks for showing an interest in my GitHub account.
   I mainly focus on mobile apps & Web sites.
   
@@ -15,7 +15,7 @@
             <tr>
                 <th scope="col">🛠 Languages</th>
                 <th scope="col">📚 Experience</th>
-                <th scope="col">📂 Repositories</th>
+                <th scope="col">📂 Repo</th>
             </tr>
             </thead>
             <tbody>
