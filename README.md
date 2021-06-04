@@ -47,7 +47,7 @@
                         <img align="left" alt=“Java” width="25px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
                         </th>
                     <td>⭐⭐⭐⭐</td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Java-Applications">34</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Java-Applications">35</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
