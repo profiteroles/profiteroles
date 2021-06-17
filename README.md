@@ -29,7 +29,7 @@
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“React_Native” width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
+                        <img align="left" alt=“React_Native” width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
                         Native</th>
                     <td>⭐⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-React-Native-Apps">4</a></td>
