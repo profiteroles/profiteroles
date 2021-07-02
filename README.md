@@ -3,13 +3,11 @@
 
   ## 👋 Hi & Welcome 
   <p>Thanks for showing an interest in my GitHub account.
-  I mainly focus on mobile apps & Web sites. <img align="right" src="https://komarev.com/ghpvc/?username=profiteroles&label=Views&color=lightgrey&style=plastic" alt="profiteroles" /> </p>
-  
-  
-  <table border="3">
+  I'm mobile app developer and I craft beautiful UI's, natively compiled applications for mobile, web & desktop on single codebase using Dart & Flutter. <br>I'm also experience in HTML, CSS, PHP, JS & currently progressing in React Native.<br><br>Please feel free to gaze through my repositories.<br><br></p>
+<table border="3">
  <tr>
     <td><b>Skills</b></td>
-    <td><b> My GitHub Status</b></td>
+    <td><b> My GitHub Status<img align="right" src="https://komarev.com/ghpvc/?username=profiteroles&label=Views&color=lightgrey&style=plastic" alt="profiteroles"/></b></td>
  </tr>
  <tr>
     <td>
