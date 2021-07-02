@@ -12,10 +12,10 @@
  <tr>
     <td>
       <table style="border-collapse: collapse;
-            border: 2px solid rgb(200, 200, 200);
-            letter-spacing: 1px;
+            border: 4px solid rgb(200, 200, 200);
+            letter-spacing: 3px;
             font-family: sans-serif;
-            font-size: .8rem;" cellpadding="10" border="1" width="100%">
+            font-size: .8rem;" cellpadding="10" border="3" width="100%">
                 <thead style="background-color: #3f87a6;
                 color: #fff;">
             <tr>
@@ -80,7 +80,8 @@
             </tbody>
             </table></td>
     <td>
-        <img align="top" width="500px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
+        <img align="top" width="500px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&hide_border=true&theme=dracula">
+        <img alt="Top languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profiteroles&layout=compact&hide_border=true&theme=dracula" />
     </td>
  </tr>
 </table>
