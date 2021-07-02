@@ -1,11 +1,19 @@
-<img align='right' width="480px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
+
+<img align="right" src="image/compPic.png" width="350"/>
 
   ## 👋 Hi & Welcome 
   <p>Thanks for showing an interest in my GitHub account.
   I mainly focus on mobile apps & Web sites. <img align="right" src="https://komarev.com/ghpvc/?username=profiteroles&label=Views&color=lightgrey&style=plastic" alt="profiteroles" /> </p>
   
   
-<table style="border-collapse: collapse;
+  <table border="3">
+ <tr>
+    <td><b>Skills</b></td>
+    <td><b> My GitHub Status</b></td>
+ </tr>
+ <tr>
+    <td>
+      <table style="border-collapse: collapse;
             border: 2px solid rgb(200, 200, 200);
             letter-spacing: 1px;
             font-family: sans-serif;
@@ -21,59 +29,63 @@
             <tbody>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“Dart” width="35px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
-                        <img align="left" alt=“Flutter” width="35px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+                        <img align="left" alt=“Dart” width="35px" src="image/dart-icon.svg"/>
+                        <img align="left" alt=“Flutter” width="35px" src="image/flutter-icon.svg"/>
                     </th>
                     <td>⭐⭐⭐⭐⭐</td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">20</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">23</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“React_Native” width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
+                        <img align="left" alt=“React_Native” width="60px" src="image/react-icon.png"/>
                         Native</th>
                     <td>⭐⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-React-Native-Apps">4</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“Visual_Studio” width="35px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"/>
-                        <img align="left" alt=“C#” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png"/>
+                        <img align="left" alt=“Visual_Studio” width="35px" src="image/vs-icon.svg"/>
+                        <img align="left" alt=“C#” width="35px" src="image/c-icon.png"/>
                     </th>
                     <td>⭐⭐⭐⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-.Net-Application">16</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“Java” width="25px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
+                        <img align="left" alt=“Java” width="25px" src="image/java-icon.svg" />
                         </th>
                     <td>⭐⭐⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Java-Applications">35</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“HTML” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-                        <img align="left" alt=“CSS” width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+                        <img align="left" alt=“HTML” width="35px" src="image/html5-icon.svg" />
+                        <img align="left" alt=“CSS” width="35px" src="image/css3-icon.svg" />
                     </th>
                     <td>⭐⭐⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">4</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=“php” width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
+                        <img align="left" alt=“php” width="40px" src="image/php-icon.svg"/>
                     </th>
                     <td>⭐⭐⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">2</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
-                        <img align="left" alt=JavaScript width="35px" src="https://mpng.subpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg"/>
+                        <img align="left" alt=JavaScript width="35px" src="image/js-icon.jpg"/>
                     </th>
                     <td>⭐⭐</td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">1</a></td>
                 </tr>
             </tbody>
-            </table>
-       
+            </table></td>
+    <td>
+        <img align="top" width="500px" src="https://github-readme-stats.vercel.app/api?username=profiteroles&show_icons=true&theme=dracula">
+    </td>
+ </tr>
+</table>
 
  ## ☎️ Let's Get in Touch 📧
 
