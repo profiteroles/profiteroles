@@ -3,7 +3,7 @@
 
   ## 👋 Hi & Welcome 
   <p>Thanks for showing an interest in my GitHub account.
-  I'm mobile app developer and I craft beautiful UI's, natively compiled applications for mobile, web & desktop on single codebase using Dart & Flutter. <br>I'm also experience in HTML, CSS, PHP, JS & currently progressing in React Native.<br><br>Please feel free to gaze through my repositories.<br><br></p>
+  I'm mobile app developer and I craft beautiful UI's, natively compiled applications for mobile, web & desktop on single codebase using Dart & Flutter. <br>I'm also experience in HTML, CSS, PHP, JS & currently progressing in React Native.<br><br>Please feel free to gaze through my repositories.<br><br><br></p>
 <table border="3">
  <tr>
     <td><b>Skills</b></td>
