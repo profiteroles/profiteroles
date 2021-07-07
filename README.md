@@ -31,7 +31,7 @@
                         <img align="left" alt=“Flutter” width="35px" src="image/flutter-icon.svg"/>
                     </th>
                     <td>⭐⭐⭐⭐⭐</td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">23</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">26</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
