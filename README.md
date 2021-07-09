@@ -61,7 +61,7 @@
                         <img align="left" alt=“CSS” width="35px" src="image/css3-icon.svg" />
                     </th>
                     <td>⭐⭐⭐⭐</td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">4</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">6</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
@@ -75,7 +75,7 @@
                         <img align="left" alt=JavaScript width="35px" src="image/js-icon.jpg"/>
                     </th>
                     <td>⭐⭐</td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">1</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">2</a></td>
                 </tr>
             </tbody>
             </table></td>
