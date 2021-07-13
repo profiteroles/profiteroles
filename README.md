@@ -2,8 +2,8 @@
 <img align="right" src="image/compPic.png" width="350"/>
 
   ## 👋 Hi & Welcome 
-  <p>Thanks for showing an interest in my GitHub account.
-  I'm mobile app developer and I craft beautiful UI's, natively compiled applications for mobile, web & desktop on single codebase using Dart & Flutter. <br>I'm also experience in HTML, CSS, PHP, JS & currently progressing in React Native.<br><br>Please feel free to gaze through my repositories.<br><br><br></p>
+  <p>Thanks for showing an interest in my GitHub profile.
+  I'm mobile app developer and I craft beautiful UI's, natively compiled applications for mobile, web & desktop on single codebase using Dart & Flutter. <br>I'm also experienced in HTML, CSS, PHP, JS & currently progressing in React Native.<br><br>Please feel free to gaze through my repositories.<br><br><br></p>
 <table border="3">
  <tr>
     <td><b>Skills</b></td>
@@ -63,12 +63,12 @@
                 <tr>
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
-                      <img align="left" alt=“HTML” width="35px" src="image/html5-icon.svg" /></a>
+                      <img align="left" alt=“HTML” width="40px" src="image/html5-icon.svg" /></a>
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
                       <img align="left" alt=“CSS” width="35px" src="image/css3-icon.svg" /></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">⭐⭐⭐⭐</a></td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">6</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">7</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
@@ -81,10 +81,10 @@
                 <tr>
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
-                      <img align="left" alt=JavaScript width="35px" src="image/js-icon.jpg"/></a>
+                      <img align="left" alt=JavaScript width="35px" src="image/js-icon.png"/></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">⭐⭐⭐</a></td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">2</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">3</a></td>
                 </tr>
             </tbody>
             </table></td>
