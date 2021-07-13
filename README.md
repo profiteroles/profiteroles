@@ -82,6 +82,8 @@
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
                       <img align="left" alt=JavaScript width="35px" src="image/js-icon.png"/></a>
+                      <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
+                      <img align="left" alt=NodeJS width="35px" src="image/node-icon.png"/></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">⭐⭐⭐</a></td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">3</a></td>
