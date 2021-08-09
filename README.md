@@ -76,7 +76,7 @@
                       <img align="left" alt=“php” width="40px" src="image/php-icon.png"/></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">⭐⭐⭐</a></td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">2</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">3</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
