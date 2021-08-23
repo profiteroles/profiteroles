@@ -74,9 +74,12 @@
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
                       <img align="left" alt=“php” width="40px" src="image/php-icon.png"/></a>
+                      <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
+                      <img align="left" alt=“php” width="40px" src="image/laravel-icon.png"/>
+                      </a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">⭐⭐⭐</a></td>
-                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">3</a></td>
+                    <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">4</a></td>
                 </tr>
                 <tr>
                     <th scope="row" align="left">
