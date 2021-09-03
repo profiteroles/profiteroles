@@ -15,20 +15,20 @@
             border: 4px solid rgb(200, 200, 200);
             letter-spacing: 3px;
             font-family: sans-serif;
-            font-size: .8rem;" cellpadding="10" border="3" width="100%">
+            font-size: 1rem;" cellpadding="10" border="3" width="100%">
                 <thead style="background-color: #3f87a6;
                 color: #fff;">
-            <tr>
-                <th scope="col">🛠 Languages</th>
-                <th scope="col">📚 Experience</th>
-                <th scope="col">📂 Repo</th>
+            <tr style="font-size: 1.5rem">
+                <th scope="col"><strong>🛠 Languages</strong></th>
+                <th scope="col"><strong>📚 Experience</strong></th>
+                <th scope="col"><strong>📂 Repo</strong></th>
             </tr>
             </thead>
             <tbody>
                 <tr>
                     <th scope="row" align="left">
                      <a href="https://github.com/profiteroles/All-My-Flutter-Apps"><img align="left" alt=“Dart” width="35px" src="image/dart-icon.svg"/></a>
-                     <a href="https://github.com/profiteroles/All-My-Flutter-Apps"><img align="left" alt=“Flutter” width="35px" src="image/flutter-icon.png"/></a>
+                     <a href="https://github.com/profiteroles/All-My-Flutter-Apps"><img align="left" alt=“Flutter” width="38px" src="image/flutter-icon.png"/></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Flutter-Apps">⭐⭐⭐⭐⭐</a></td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">26</a></td>
@@ -36,8 +36,7 @@
                 <tr>
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-React-Native-Apps">
-                          <img align="left" alt=“React_Native” width="60px" src="image/react-icon.png"/>
-                        Native</a></th>
+                          <img align="left" alt=“React_Native” width="60px" src="image/react-icon.png"/></a></th>
                     <td><a href="https://github.com/profiteroles/All-My-React-Native-Apps">⭐⭐⭐</a></td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-React-Native-Apps">4</a></td>
                 </tr>
@@ -48,7 +47,7 @@
                         <a href="https://github.com/profiteroles/All-My-.Net-Application">
                       <img align="left" alt=“C#” width="35px" src="image/c-icon.png"/></a>
                     </th>
-                    <td><a href="https://github.com/profiteroles/All-My-.Net-Application">⭐⭐⭐⭐⭐</a></td>
+                    <td><a href="https://github.com/profiteroles/All-My-.Net-Application">⭐⭐⭐⭐</a></td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-.Net-Application">16</a></td>
                 </tr>
                 <tr>
@@ -63,7 +62,7 @@
                 <tr>
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
-                      <img align="left" alt=“HTML” width="40px" src="image/html5-icon.svg" /></a>
+                      <img align="left" alt=“HTML” width="42px" src="image/html5-icon.svg" /></a>
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
                       <img align="left" alt=“CSS” width="35px" src="image/css3-icon.svg" /></a>
                     </th>
@@ -73,7 +72,7 @@
                 <tr>
                     <th scope="row" align="left">
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
-                      <img align="left" alt=“php” width="40px" src="image/php-icon.png"/></a>
+                      <img align="left" alt=“php” width="44px" src="image/php-icon.png"/></a>
                       <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
                       <img align="left" alt=“php” width="40px" src="image/laravel-icon.png"/>
                       </a>
@@ -86,7 +85,7 @@
                       <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
                       <img align="left" alt=NodeJS width="135px" src="image/node-icon.png"/></a>
                         <a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">
-                      <img align="left" alt=JavaScript width="35px" src="image/js-icon.png"/></a>
+                      <img align="left" alt=JavaScript width="38px" src="image/js-icon.png"/></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">⭐⭐⭐</a></td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Web-PHP-JavaScript-HTML-CSS">4</a></td>
