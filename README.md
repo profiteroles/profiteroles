@@ -1,9 +1,14 @@
 
 <img align="right" src="image/compPic.png" width="350"/>
 
-  ## 👋 Hi & Welcome 
-  <p>Thanks for showing an interest in my GitHub profile.
-  I'm mobile app developer and I craft beautiful UI's, natively compiled applications for mobile, web & desktop on single codebase using Dart & Flutter. <br>I'm also experienced in HTML, CSS, PHP, JS & currently progressing in React Native.<br><br>Please feel free to gaze through my repositories.<br><br><br></p>
+  # If you a'int lost then Erol 👋 welcomes you to his profile.
+  ### Erol is a qualified software developer who has been developing mobile apps for the last couple of years with Flutter and he is taking serious steps towards becoming a Full Stack Developer. He crafts beautiful material UI for mobile apps that sometimes he gets impressed by his own skills.
+  <br><br>
+  
+  ### He recently discovered Laravel and he loves it and he spends most of his time pushing his limits with more possibilities with Laravel and if he gets bored he focuses on Back-End Development with Node JS with some app development.
+  <br><br>
+
+  ### No point in reaching out to him if he has enough projects to work on.<br><br><br>
 <table border="3">
  <tr>
     <td><b>Skills</b></td>
@@ -28,7 +33,7 @@
                 <tr>
                     <th scope="row" align="left">
                      <a href="https://github.com/profiteroles/All-My-Flutter-Apps"><img align="left" alt=“Dart” width="35px" src="image/dart-icon.svg"/></a>
-                     <a href="https://github.com/profiteroles/All-My-Flutter-Apps"><img align="left" alt=“Flutter” width="38px" src="image/flutter-icon.png"/></a>
+                     <a href="https://github.com/profiteroles/All-My-Flutter-Apps"><img align="left" alt=“Flutter” width="48px" src="image/flutter-icon.png"/></a>
                     </th>
                     <td><a href="https://github.com/profiteroles/All-My-Flutter-Apps">⭐⭐⭐⭐⭐</a></td>
                     <td align="center"><a href="https://github.com/profiteroles/All-My-Flutter-Apps">26</a></td>
